@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pinple-native",
+    "slug": "pinple-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pinple-native"
+}
